@@ -48,7 +48,6 @@ if (isset($_GET["cari"])) {
       </div>
     </div>
   </nav>
-  <div>
     <div class="container mb-5">
       <div class="row">
         <div class="col">
@@ -67,7 +66,5 @@ if (isset($_GET["cari"])) {
         </div>
       </div>
     </div>
-  </div>
 </body>
-
 </html>
